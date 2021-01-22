@@ -1,0 +1,116 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#project{
+    font-size: medium;
+    font-weight: bold;
+    word-spacing: 40px;
+    margin-right: 6%;
+    margin-top: 2%;
+    text-align: right;
+}
+.dream-area{
+    margin-top: 50%;
+}
+
+
+h1{
+    font-size: 50px;
+}
+.name{
+    color: orangered;
+}
+button{
+    color: orangered;
+    width: 50%;
+   
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+    
+    }
+
+.half-width img{
+    width: 100%;
+    margin-right: 3%;
+    
+}
+
+.first-part{
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 30%;
+    padding-bottom: 15%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(235, 6, 6);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+    font-weight: 400;
+    width: 50%;
+}
+
+.second-part{
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 30%;
+    padding-bottom: 15%;
+}
+.experience{
+    margin-top: 110%;
+   
+}
+
+#last{
+    word-spacing: 20px;
+    text-align: center;
+    
+}
+
+.half{
+    margin-top: 10%;
+    box-shadow: cadetblue;
+    width: 22%;
+    float: left;
+    margin-left: 8%;
+   margin-right: 2%;
+   box-shadow: 60px 60px 40px grey;
+   border: cornflowerblue;
+   margin-bottom: 10%;
+   
+    
+    }
+    .pic{
+        width: 100%;
+    }
+
+    .third-part{
+        float: left;
+      padding-left: 40%;
+      padding-right: 40%;
+      padding-top: 20px;
+      padding-bottom: 10%;
+      margin-left: 10%;
+      margin-right: 10%;
+       background-color: blue;
+       border-radius: 10px;
+       margin-bottom: 10%;
+    }
+    .work{
+        color: white;
+        font-size: 30px;
+        text-align: left;
+    }
+    h2{
+        color: grey;
+        text-align: center;
+    }
+    .fourth{
+        margin-top: 30%;
+    }
